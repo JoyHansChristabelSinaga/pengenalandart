@@ -1,0 +1,3 @@
+bool benarkah() {
+  return (true);
+}
